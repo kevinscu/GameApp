@@ -7,7 +7,7 @@
 
 const tasks = {
     tasks: [{
-        text: 'Grocery shopping',
+        text: 'Grocery shoppixxng',
         completed: true
     }, {
         text: 'Clean yard',
